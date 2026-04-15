@@ -43,7 +43,7 @@ public class HibernateConfig {
 	  e1.setDep("Science");
 	  e1.setGender("Male");
 	  e1.setName("sata");
-	  e1.setSalary(89000);
+	  e1.setSalary(76000);
 	  
 	  Employee e2 = new Employee();
 	  e2.setId(3);
